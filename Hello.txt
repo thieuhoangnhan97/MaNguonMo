@@ -1,2 +1,1 @@
-Xin chao cac ban!
-branch develop
+Hello World!
